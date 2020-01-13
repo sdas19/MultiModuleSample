@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModularizationSample.iml" filepath="$PROJECT_DIR$/ModularizationSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profile_feature/profile_feature.iml" filepath="$PROJECT_DIR$/profile_feature/profile_feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repo_feature/repo_feature.iml" filepath="$PROJECT_DIR$/repo_feature/repo_feature.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Core</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_repo">Repo</string>
+</resources>

@@ -12,6 +12,9 @@ class DeeplinkHandler : Activity() {
         parseIntent()
     }
 
+    // deeplink from emulator
+    //adb shell am start -a android.intent.action.VIEW -d "https://www.example.com/demo?userid=100&client=android"
+
     private fun parseIntent() {
         val intent = intent
         val uri = intent.data
